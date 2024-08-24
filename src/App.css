@@ -1,0 +1,13 @@
+.box {
+  display: flex;
+  flex-wrap: wrap;
+}
+.name {
+  text-align: center;
+}
+.cardContainer {
+  padding: 2px;
+}
+.febicon {
+  height: 50px;
+}
